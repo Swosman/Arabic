@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Al Jazeera Arabic" tvg-logo="" group-title="News",Al Jazeera Arabic
 https://vt.vttpi.com:8443/608209303104479/892084537081313/162
-#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera English" tvg-logo="" group-title="News",Al Jazeera English
-https://vt.vttpi.com:8443/608209303104479/892084537081313/163
 #EXTINF:-1 tvg-id="" tvg-name="Al Arabiya" tvg-logo="" group-title="News",Al Arabiya
 https://vt.vttpi.com:8443/608209303104479/892084537081313/164
 #EXTINF:-1 tvg-id="" tvg-name="Al Hadath" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Al-arabiya-al-hadath.jpg" group-title="MBC CHANNELS",Al Hadath
